@@ -28,6 +28,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>hadoop-shaded-guava</artifactId>
+    <version>1.5.0-deepbi1</version>
     <name>Apache Hadoop shaded Guava</name>
     <packaging>jar</packaging>
     <description>
